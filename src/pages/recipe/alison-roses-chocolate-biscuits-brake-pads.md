@@ -2,8 +2,7 @@
 templateKey: recipe
 title: Alison Rose's Chocolate Biscuits (Brake Pads)
 legacyhref: als_choccy_biccys
-category:
-  - Cakes and Desserts
+category: Cakes and Desserts
 ---
 -   125g unsalted butter
 -   ½ cup caster sugar
