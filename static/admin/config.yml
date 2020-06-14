@@ -27,8 +27,8 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
 
-  - name: "recipe"
-    label: "Recipe"
+  - name: "recipes"
+    label: "Recipes"
     folder: "src/pages/recipes"
     create: true
     fields:
