@@ -24,13 +24,15 @@ const RecipesAside = ({ data }) => {
         {_.keys(grouped).map((category) => (
           <React.Fragment key={category}>
             <header>{category}</header>
-            <ul>
-              {grouped[category].map(({ id, slug, title }) => (
-                <li key={id}>
-                  <Link to={slug}>{title}</Link>
-                </li>
-              ))}
-            </ul>
+            <div className="content">
+              <ul>
+                {grouped[category].map(({ id, slug, title }) => (
+                  <li key={id}>
+                    <Link to={slug}>{title}</Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
           </React.Fragment>
         ))}
       </nav>
