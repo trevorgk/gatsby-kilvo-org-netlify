@@ -29,7 +29,7 @@ collections:
 
   - name: "recipe"
     label: "Recipe"
-    folder: "src/pages/recipe"
+    folder: "src/pages/recipes"
     create: true
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "recipe"}
