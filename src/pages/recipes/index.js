@@ -1,6 +1,7 @@
 import React from 'react';
 
 import Layout from '../../components/Layout';
+import RecipesAside from '../../components/RecipesAside';
 
 export default class RecipeIndexPage extends React.Component {
   render() {
@@ -27,6 +28,7 @@ export default class RecipeIndexPage extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
+              <RecipesAside />
               <p>
                 I have a keen interest in food, as testified to by my girth.
                 Beware of skinny coooks! This was an unintentional typo but it
