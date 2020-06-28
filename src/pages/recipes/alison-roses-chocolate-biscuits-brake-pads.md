@@ -1,7 +1,7 @@
 ---
 templateKey: recipe
 title: Alison Rose's Chocolate Biscuits (Brake Pads)
-legacyHref: als_choccy_biccys
+legacySlug: als_choccy_biccys.html
 category: Cakes and Desserts
 tags:
   - cookies
