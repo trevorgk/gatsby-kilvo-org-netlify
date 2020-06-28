@@ -92,7 +92,6 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        legacyhref
       }
     }
   }
