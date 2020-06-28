@@ -92,7 +92,12 @@ collections:
               name: 'ingredients',
               widget: 'list',
               field:
-                { label: 'Ingredient', name: 'ingredient', widget: 'text' },
+                {
+                  label: 'Ingredient',
+                  name: 'ingredient',
+                  widget: 'string',
+                  collapsed: false,
+                },
             }
           - { label: 'Method', name: 'method', widget: 'markdown' }
           - {
