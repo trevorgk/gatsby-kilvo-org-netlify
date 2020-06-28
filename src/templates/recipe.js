@@ -10,7 +10,6 @@ export const RecipeTemplate = ({
   content,
   contentComponent,
   tags,
-  category,
   title,
   helmet,
 }) => {
@@ -23,7 +22,7 @@ export const RecipeTemplate = ({
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title} {category}
+              {title}
             </h1>
             <PostContent content={content} />
             {tags && tags.length ? (
@@ -62,7 +61,6 @@ const Recipe = ({ data }) => {
         content={recipe.html}
         contentComponent={HTMLContent}
         description={recipe.frontmatter.description}
-        category={recipe.frontmatter.category}
         helmet={
           <Helmet titleTemplate="%s | Recipe">
             <title>{`${recipe.frontmatter.title}`}</title>
@@ -95,7 +93,6 @@ export const pageQuery = graphql`
       frontmatter {
         title
         legacyhref
-        category
       }
     }
   }
