@@ -1,19 +1,20 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import { kebabCase } from 'lodash'
-import { Helmet } from 'react-helmet'
-import { graphql, Link } from 'gatsby'
-import Layout from '../components/Layout'
-import Content, { HTMLContent } from '../components/Content'
+import React from 'react';
+import PropTypes from 'prop-types';
+import { kebabCase } from 'lodash';
+import { Helmet } from 'react-helmet';
+import { graphql, Link } from 'gatsby';
+import Layout from '../components/Layout';
+import Content, { HTMLContent } from '../components/Content';
 
 export const RecipeTemplate = ({
   content,
   contentComponent,
   tags,
+  category,
   title,
   helmet,
 }) => {
-  const PostContent = contentComponent || Content
+  const PostContent = contentComponent || Content;
 
   return (
     <section className="section">
@@ -22,7 +23,7 @@ export const RecipeTemplate = ({
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
+              {title} {category}
             </h1>
             <PostContent content={content} />
             {tags && tags.length ? (
@@ -41,8 +42,8 @@ export const RecipeTemplate = ({
         </div>
       </div>
     </section>
-  )
-}
+  );
+};
 
 RecipeTemplate.propTypes = {
   content: PropTypes.node.isRequired,
@@ -50,10 +51,10 @@ RecipeTemplate.propTypes = {
   description: PropTypes.string,
   title: PropTypes.string,
   helmet: PropTypes.object,
-}
+};
 
 const Recipe = ({ data }) => {
-  const { markdownRemark: recipe } = data
+  const { markdownRemark: recipe } = data;
 
   return (
     <Layout>
@@ -61,6 +62,7 @@ const Recipe = ({ data }) => {
         content={recipe.html}
         contentComponent={HTMLContent}
         description={recipe.frontmatter.description}
+        category={recipe.frontmatter.category}
         helmet={
           <Helmet titleTemplate="%s | Recipe">
             <title>{`${recipe.frontmatter.title}`}</title>
@@ -74,16 +76,16 @@ const Recipe = ({ data }) => {
         title={recipe.frontmatter.title}
       />
     </Layout>
-  )
-}
+  );
+};
 
 Recipe.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.object,
   }),
-}
+};
 
-export default Recipe
+export default Recipe;
 
 export const pageQuery = graphql`
   query RecipeByID($id: String!) {
@@ -97,4 +99,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;
