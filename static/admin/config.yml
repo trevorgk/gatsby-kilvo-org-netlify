@@ -44,7 +44,7 @@ collections:
           default: 'recipe',
         }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Legacy Href', name: 'legacyHref', widget: 'string' }
+      - { label: 'Legacy Slug', name: 'legacySlug', widget: 'string' }
       - {
           label: 'Category',
           name: 'category',
