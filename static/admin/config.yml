@@ -44,7 +44,13 @@ collections:
           default: 'recipe',
         }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Legacy Slug', name: 'legacySlug', widget: 'string' }
+      - { label: 'Blurb', name: 'blurb', widget: 'markdown', required: false }
+      - {
+          label: 'Legacy Slug',
+          name: 'legacySlug',
+          widget: 'string',
+          required: false,
+        }
       - {
           label: 'Category',
           name: 'category',
