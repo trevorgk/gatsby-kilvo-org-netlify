@@ -87,7 +87,13 @@ collections:
               widget: 'string',
               required: false,
             }
-          - { label: 'Ingredients', name: 'ingredients', widget: 'list' }
+          - {
+              label: 'Ingredients',
+              name: 'ingredients',
+              widget: 'list',
+              field:
+                { label: 'Ingredient', name: 'ingredient', widget: 'text' },
+            }
           - { label: 'Method', name: 'method', widget: 'markdown' }
           - {
               label: 'Recipe Class',
