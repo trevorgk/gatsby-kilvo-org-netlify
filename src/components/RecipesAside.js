@@ -64,7 +64,6 @@ export default () => (
               }
               frontmatter {
                 title
-                category
               }
             }
           }
