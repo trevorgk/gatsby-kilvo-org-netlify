@@ -52,7 +52,7 @@ RecipeTemplate.propTypes = {
   helmet: PropTypes.object,
 };
 
-const Recipe = ({ data }) => {
+const RecipePage = ({ data }) => {
   const { markdownRemark: recipe } = data;
 
   return (
@@ -77,13 +77,13 @@ const Recipe = ({ data }) => {
   );
 };
 
-Recipe.propTypes = {
+RecipePage.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.object,
   }),
 };
 
-export default Recipe;
+export default RecipePage;
 
 export const pageQuery = graphql`
   query RecipeByID($id: String!) {

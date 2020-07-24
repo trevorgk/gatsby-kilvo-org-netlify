@@ -41,7 +41,7 @@ collections:
           label: 'Template Key',
           name: 'templateKey',
           widget: 'hidden',
-          default: 'recipe',
+          default: 'recipe-page',
         }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Blurb', name: 'blurb', widget: 'markdown', required: false }
