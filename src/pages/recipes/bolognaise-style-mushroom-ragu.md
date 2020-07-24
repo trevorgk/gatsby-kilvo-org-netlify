@@ -1,5 +1,5 @@
 ---
-templateKey: recipe-page
+templateKey: recipe
 title: Bolognaise-style mushroom ragu
 blurb: >-
   This is an edited extract from Karen Martini's "New Kitchen", published in The

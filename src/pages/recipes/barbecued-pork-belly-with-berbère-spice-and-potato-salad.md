@@ -1,5 +1,5 @@
 ---
-templateKey: recipe-page
+templateKey: recipe
 title: Barbecued Pork Belly with Berbère Spice and Potato Salad
 blurb: >-
   This comes from Cath Clarinbold in "The Age" Good Weekend 15 October 2005. I

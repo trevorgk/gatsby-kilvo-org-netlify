@@ -1,5 +1,5 @@
 ---
-templateKey: recipe-page
+templateKey: recipe
 title: Crème Brulée
 blurb: >-
 
