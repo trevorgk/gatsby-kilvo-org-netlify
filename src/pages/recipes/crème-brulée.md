@@ -1,8 +1,8 @@
 ---
-templateKey: recipe
+templateKey: recipe-page
 title: Crème Brulée
 blurb: >-
-  
+
   Recipe from France Soir, a wonderful French restaurant in Melbourne, Australia.
 legacySlug: creme_brulee.html
 category: Cakes and Desserts
@@ -27,7 +27,7 @@ recipes:
 
 
       Pour into separate dishes and let cool. A sugary skin should form, which should be blow-torched when ready to serve.
-  - recipeDescription: "More modest (that is, non-restaurant) quantities:"
+  - recipeDescription: 'More modest (that is, non-restaurant) quantities:'
     ingredients:
       - 4 egg yolks
       - 550 mls pure cream
@@ -36,5 +36,5 @@ recipes:
       - 1 vanilla bean
       - ¼ teaspoon vanilla concentrate
       - splash of brandy
-    method: " "
+    method: ' '
 ---

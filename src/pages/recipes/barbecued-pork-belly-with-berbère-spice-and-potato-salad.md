@@ -1,5 +1,5 @@
 ---
-templateKey: recipe
+templateKey: recipe-page
 title: Barbecued Pork Belly with Berbère Spice and Potato Salad
 blurb: >-
   This comes from Cath Clarinbold in "The Age" Good Weekend 15 October 2005. I
@@ -39,7 +39,7 @@ recipes:
 
 
       Slice the cold pork meat into 3cm slices and rub with more berbère spice mix, and barbecue until nicely coloured and heated right through. Serve with the potato salad. I also serve it with red cabbage.
-    recipeCssClass: ""
+    recipeCssClass: ''
   - recipeTitle: Berbère Spice Mix
     ingredients:
       - 8 white cardomon pods

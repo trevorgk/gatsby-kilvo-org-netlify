@@ -11,9 +11,12 @@ export const RecipeTemplate = ({
   contentComponent,
   tags,
   title,
+  blurb,
+  featuredimage,
+  recipes,
   helmet,
 }) => {
-  const PostContent = contentComponent || Content;
+  const PageContent = contentComponent || Content;
 
   return (
     <section className="section">
@@ -24,7 +27,7 @@ export const RecipeTemplate = ({
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
-            <PostContent content={content} />
+            <PageContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
                 <h4>Tags</h4>
@@ -72,6 +75,9 @@ const RecipePage = ({ data }) => {
         }
         tags={recipe.frontmatter.tags}
         title={recipe.frontmatter.title}
+        blurb={recipe.frontmatter.blurb}
+        featuredImage={recipe.frontmatter.featuredImage}
+        recipes={recipe.frontmatter.recipes}
       />
     </Layout>
   );
@@ -92,6 +98,18 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
+        blurb
+        category
+        featuredimage {
+          publicURL
+        }
+        recipes {
+          recipeTitle
+          recipeDescription
+          ingredients
+          method
+          recipeCssClass
+        }
       }
     }
   }
