@@ -39,6 +39,7 @@ recipes:
 
 
       Slice the cold pork meat into 3cm slices and rub with more berbère spice mix, and barbecue until nicely coloured and heated right through. Serve with the potato salad. I also serve it with red cabbage.
+    recipeCssClass: test
   - recipeTitle: Berbère Spice Mix
     ingredients:
       - 8 white cardomon pods
