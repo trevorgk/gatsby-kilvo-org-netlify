@@ -4,11 +4,11 @@ import { kebabCase } from 'lodash';
 import { Helmet } from 'react-helmet';
 import { graphql, Link } from 'gatsby';
 import Layout from '../components/Layout';
-import Content, { HTMLContent } from '../components/Content';
+import Content, { MarkdownContent } from '../components/Content';
+import RecipesAside from '../components/RecipesAside';
 
 export const RecipeTemplate = ({
   content,
-  contentComponent,
   tags,
   title,
   blurb,
@@ -16,32 +16,45 @@ export const RecipeTemplate = ({
   recipes,
   helmet,
 }) => {
-  const PageContent = contentComponent || Content;
-
+  console.log({ blurb });
   return (
     <section className="section">
       {helmet || ''}
       <div className="container content">
         <div className="columns">
-          <div className="column is-10 is-offset-1">
+          <div className="column is-three-quarters">
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
-            <PageContent content={content} />
-            {tags && tags.length ? (
-              <div style={{ marginTop: `4rem` }}>
-                <h4>Tags</h4>
-                <ul className="taglist">
-                  {tags.map((tag) => (
-                    <li key={tag + `tag`}>
-                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                    </li>
+            <p className="blurb">{MarkdownContent({ content: blurb })}</p>
+            {recipes.map(({ ingredients, method, recipeTitle }) => (
+              <>
+                <h2>{recipeTitle}</h2>
+                <ul>
+                  {ingredients.map((ingredient) => (
+                    <li key={ingredient}>{ingredient}</li>
                   ))}
                 </ul>
-              </div>
-            ) : null}
+                <div>{MarkdownContent({ content: method })}</div>
+              </>
+            ))}
+          </div>
+          <div className="column">
+            <RecipesAside />
           </div>
         </div>
+        {tags && tags.length ? (
+          <div style={{ marginTop: `4rem` }}>
+            <h4>Tags</h4>
+            <ul className="taglist">
+              {tags.map((tag) => (
+                <li key={tag + `tag`}>
+                  <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ) : null}
       </div>
     </section>
   );
@@ -49,7 +62,6 @@ export const RecipeTemplate = ({
 
 RecipeTemplate.propTypes = {
   content: PropTypes.node.isRequired,
-  contentComponent: PropTypes.func,
   description: PropTypes.string,
   title: PropTypes.string,
   helmet: PropTypes.object,
@@ -62,7 +74,6 @@ const RecipePage = ({ data }) => {
     <Layout>
       <RecipeTemplate
         content={recipe.html}
-        contentComponent={HTMLContent}
         description={recipe.frontmatter.description}
         helmet={
           <Helmet titleTemplate="%s | Recipe">
