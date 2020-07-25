@@ -6,7 +6,7 @@ blurb: >+
   published in the USA by American Heritage 1964).
 
 
-  Eric Janson, the Swedish relig1ous reformer who founded Bishop Hill, Illinois, in 1846, preached religious asceticism to his followers, no liquor and a diet that barely sustained life. One day, according to legend, a zealous Jansonist discovered the prophet feasting, secretively, on a casserole of anchovies and potatoes, bound together with golden butter and rich milk. The dish became known as Janson's Temptation.
+  Eric Janson, the Swedish religious reformer who founded Bishop Hill, Illinois, in 1846, preached religious asceticism to his followers, no liquor and a diet that barely sustained life. One day, according to legend, a zealous Jansonist discovered the prophet feasting, secretively, on a casserole of anchovies and potatoes, bound together with golden butter and rich milk. The dish became known as Janson's Temptation.
 
 legacySlug: jansons_temptation.html
 category: Side Dishes
