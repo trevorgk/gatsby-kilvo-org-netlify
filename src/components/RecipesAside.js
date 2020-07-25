@@ -3,6 +3,12 @@ import PropTypes from 'prop-types';
 import { Link, graphql, StaticQuery } from 'gatsby';
 import _ from 'lodash';
 
+const categories = [
+  'Main Courses',
+  'Side Dishes',
+  'Sauces, Dressings & Preserves',
+  'Cakes and Desserts',
+];
 const RecipesAside = ({ data }) => {
   const { edges: recipes } = data.allMarkdownRemark;
   if (!recipes) {
@@ -21,7 +27,7 @@ const RecipesAside = ({ data }) => {
   return (
     <aside>
       <nav>
-        {_.keys(grouped).map((category) => (
+        {categories.map((category) => (
           <React.Fragment key={category}>
             <header>{category}</header>
             <div className="content">
