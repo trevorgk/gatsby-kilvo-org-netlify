@@ -59,7 +59,6 @@ export default () => (
     query={graphql`
       query RecipesAsideQuery {
         allMarkdownRemark(
-          sort: { order: DESC, fields: [frontmatter___date] }
           filter: { frontmatter: { templateKey: { eq: "recipe" } } }
         ) {
           edges {

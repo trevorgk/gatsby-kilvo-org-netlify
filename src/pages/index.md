@@ -22,7 +22,4 @@ main:
   image2:
     alt: test
     image: /img/apple-touch-icon.png
-  image3:
-    alt: test
-    image: /img/blog-index.jpg
 ---
