@@ -1,14 +1,6 @@
 ---
 title: Great Quotes and one-liners
 ---
-
-
-* [Humour](http://kilvo.org/humour/humour.html)
-* [Fun with Words](http://kilvo.org/fun_with_words/fun_with_words.html)
-* [Links](http://kilvo.org/links.html)
-
-# Great Quotes and one-liners
-
 Just a random collection of quotations or one-liners that ticked my (sometimes bizarre) fancy.
 
 If you see something unattributed (or worse, wrongly attributed), please let me know and I will fix it.
