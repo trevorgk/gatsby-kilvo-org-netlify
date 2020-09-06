@@ -1,13 +1,14 @@
 ---
-templateKey: bridge-page
+templateKey: content-page
 path: /bridge
 title: Bridge Stuff
 ---
+
 I have been playing Bridge for about 35 years (as at 2005), and it has been a most rewarding experience. It is like being a member of a giant club, where you automatically belong no matter where you are geographically. The bar at Lakeside in January (Canberra, Australia) for the National Open Teams is a melting pot of players from all over Australia, with a regular and substantial crowd from New Zealand. Other players come from Indonesia, the USA, the UK and Europe. We had the awesome Polish and Italian teams in the same year once.
 
 This page will show some interesting hands, occasionally discuss system, and now and then look at some of the mathematics of Bridge.
 
-# [](<>)Column Hand — Ian McCance "The Age" 14 May 2005
+# []()Column Hand — Ian McCance "The Age" 14 May 2005
 
 This is the second hand in today's article.
 
@@ -23,7 +24,7 @@ Isn't the hand almost perfect for competition? Say North doubles, or in a fit of
 
 The last word should go to Michael Ware (New Zealand) who asked what was wrong with Blackwood at East's first turn? Then bid 5, 6 or 7S depending on the response.
 
-# [](<>)Mixed teams 1 June 2005
+# []()Mixed teams 1 June 2005
 
 This is exhibit one.
 
@@ -49,7 +50,7 @@ Can North get involved over 4![H](http://kilvo.org/bridge/images/h.gif)? If Sout
 
 Only my opponents always get these decisions right.
 
-# [](<>)The lighter side of Bridge
+# []()The lighter side of Bridge
 
 Sunday 24 July 2005.
 
@@ -67,7 +68,7 @@ Mike Hughes (correctly in my view) didn't double. I explained that Charlie had a
 
 After we had gone the obvious two down, I suggested that I must have been on a different planet. Ted put his hand on my shoulder, smiled and said “It's crowded up there!”
 
-# [](<>)Meet Max Henbest
+# []()Meet Max Henbest
 
 ![](/img/max_henbest.jpg)
 
