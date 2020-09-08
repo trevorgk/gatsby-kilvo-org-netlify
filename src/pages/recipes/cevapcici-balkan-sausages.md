@@ -6,13 +6,20 @@ blurb: >-
   Herald)[http://www.smh.com.au/lifestyle/cuisine/meat/recipe/cevapcici-sausages-20111021-1mbte.html].
   Here is Bill Granger's introduction:  
 
-
   > Everyone has their favourite ready-made sausages, but for something a bit different, try this Balkan classic. If you like things hot, amp up the spice.
 legacySlug: Cevapcici.html
 category: Main Courses
 recipes:
   - ingredients:
       - 500g beef mince
+      - 500g lamb mince
+      - 4 tbsp finely chopped flat-leaf parsley
+      - 1 tbsp sea salt
+      - 4 cloves garlic, minced
+      - 1 tsp cayenne pepper
+      - 2 tsp paprika
+      - 1 small onion, peeled and grated
+      - freshly ground black pepper, to taste
     method: >-
       Place all ingredients in a bowl and mix well.
 
