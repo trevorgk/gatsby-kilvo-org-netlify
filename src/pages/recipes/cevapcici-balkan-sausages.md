@@ -2,8 +2,8 @@
 templateKey: recipe
 title: Cevapcici (Balkan Sausages)
 blurb: >-
-  I found this on the Web (Sydney Morning
-  Herald)[http://www.smh.com.au/lifestyle/cuisine/meat/recipe/cevapcici-sausages-20111021-1mbte.html].
+  I found this on the Web [Sydney Morning
+  Herald](http://www.smh.com.au/lifestyle/cuisine/meat/recipe/cevapcici-sausages-20111021-1mbte.html).
   Here is Bill Granger's introduction:  
 
   > Everyone has their favourite ready-made sausages, but for something a bit different, try this Balkan classic. If you like things hot, amp up the spice.
