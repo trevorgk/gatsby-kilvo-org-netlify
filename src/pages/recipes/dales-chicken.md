@@ -8,11 +8,15 @@ blurb: This recipe was sent to me by Jan van Riel, who apparently has the usual
 legacySlug: dales_chicken.html
 category: Main Courses
 recipes:
-  - recipeTitle: ""
+  - recipeTitle: ''
     ingredients:
-      - "#20 chicken, flat/butterflied, de-boned, with wing tips removed and
+      - '#20 chicken, flat/butterflied, de-boned, with wing tips removed and
         drumsticks boned out if possible. If you want to stretch it further,
-        also get 1-2 chicken breasts."
+        also get 1-2 chicken breasts.'
+      - 4 thick slices of ham
+      - 5 eggs
+      - Spinach
+      - Swiss style cheese (optional)
     method: >-
       Preheat fan-forced oven to 200 degrees centigrade.
 
