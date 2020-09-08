@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'gatsby';
 
-const batNavbar = class extends React.Component {
+const Navbar = class extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
