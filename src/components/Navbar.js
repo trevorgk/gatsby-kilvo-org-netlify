@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'gatsby';
 
-const Navbar = class extends React.Component {
+const batNavbar = class extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -57,11 +57,20 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/">
                 Home
               </Link>
-              <Link className="navbar-item" to="/about">
-                About
-              </Link>
               <Link className="navbar-item" to="/recipes">
-                Recipes
+                Food &amp; Recipes
+              </Link>
+              <Link className="navbar-item" to="/bridge">
+                Bridge
+              </Link>
+              <Link className="navbar-item" to="/humour">
+                Humour
+              </Link>
+              <Link className="navbar-item" to="/fun-with-words">
+                Fun With Words
+              </Link>
+              <Link className="navbar-item" to="/quotes">
+                Great quotes
               </Link>
               <Link className="navbar-item" to="/contact">
                 Contact
