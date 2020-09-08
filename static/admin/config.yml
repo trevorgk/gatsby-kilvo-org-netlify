@@ -84,7 +84,12 @@ collections:
                   collapsed: false,
                 },
             }
-          - { label: 'Method', name: 'method', widget: 'markdown' }
+          - {
+              label: 'Method',
+              name: 'method',
+              widget: 'markdown',
+              required: false,
+            }
           - {
               label: 'Recipe Class',
               name: 'recipeCssClass',
