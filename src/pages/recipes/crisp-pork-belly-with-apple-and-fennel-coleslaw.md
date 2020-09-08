@@ -56,4 +56,10 @@ recipes:
 
 
       Carve pork into thick slices, drizzle with sauce and serve with salad.
+  - recipeTitle: Time line
+    recipeDescription: Let t be dinner time. Then you need to allow say 3½ hours from go to whoa.
+    ingredients:
+      - "t - 3½ hours: Crank up oven to 220°C. Get the pork out of the fridge
+        and salt it. Then back into the fridge to dry out the skin."
+    method: "\n"
 ---
