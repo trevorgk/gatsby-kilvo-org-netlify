@@ -1,13 +1,16 @@
 ---
+templateKey: 'content-page'
+path: /fun-with-words
 title: Fun With Words
 ---
+
 I have a large collection of odd-ball dictionaries, and books dealing with the (sometimes very strange) history of English. And I get sent a lot of amusing stuff like the first article on Life in the 1500s.
 
 The plan is to put up the bits and pieces I find particularly amusing. Stop me being the sole arbiter of drollery and email me with any suggestions!
 
 A true story. I was leaving a cinema many years ago (1991) having watched Mel Gibson in Zeffirelli's version of Hamlet. A man in front of me asked his wife how had she enjoyed the film? Her response was, 'strewth†, “It was good, but full of cliches”. I've been accused of making this up, but I swear it's true.\
 \
-†Oxford English Dictionary: *vulgar*. Short for *God's truth*, used as an oath.
+†Oxford English Dictionary: _vulgar_. Short for _God's truth_, used as an oath.
 
 Some fun anagrams. Braille is an anagram of Liberal (perhaps only amusing in Australia). Treason is an anagram of Senator (of more general use). And "Eleven Plus two" is an anagram of "Twelve plus one".
 
@@ -17,7 +20,7 @@ Some idiot had spray painted, in huge letters "God hates homos"
 
 And underneath, someone had added this spark of genius — "But does he like Tabbouleh?"
 
-# [](<>)Multitudes - Collective Nouns.
+# []()Multitudes - Collective Nouns.
 
 ![](http://kilvo.org/fun_with_words/images/nerd_of_cows.jpg)
 
