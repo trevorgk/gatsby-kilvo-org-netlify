@@ -1,22 +1,6 @@
 ---
 title: Fun With Words
 ---
-
-
-* [liners](http://kilvo.org/great_quotes/great_quotes.html)
-* [Links](http://kilvo.org/links.html)
-
-
-
-* [Multitudes](http://kilvo.org/fun_with_words/fun_with_words.html#Multitudes)
-* [WordPlay](http://kilvo.org/fun_with_words/wordplay.html)
-* [Latest Word Definitions](http://kilvo.org/fun_with_words/latest_word_definitions.html)
-* [Graffiti](http://kilvo.org/fun_with_words/graffiti.html)
-* [Washington Post — Neologisms](http://kilvo.org/fun_with_words/neologisms.html)
-* [Handy Engineering Conversions](http://kilvo.org/fun_with_words/engineering_conversions.html)
-
-# Fun with Words.
-
 I have a large collection of odd-ball dictionaries, and books dealing with the (sometimes very strange) history of English. And I get sent a lot of amusing stuff like the first article on Life in the 1500s.
 
 The plan is to put up the bits and pieces I find particularly amusing. Stop me being the sole arbiter of drollery and email me with any suggestions!
