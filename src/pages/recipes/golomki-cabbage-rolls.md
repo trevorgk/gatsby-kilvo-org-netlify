@@ -6,6 +6,15 @@ category: Main Courses
 recipes:
   - ingredients:
       - 1 kg piece of pork neck, minced
+      - 2 eggs
+      - salt and pepper (a lot)
+      - 2 bay leaves
+      - 4 allspice
+      - stale bread ~ 1½ rolls, soaked in water, squeezed dry
+      - 1 onion, finely chopped
+      - 1 large but light cabbage
+      - 1 kg tomatoes
+      - sugar to taste
     method: >-
       Cook the cabbage in boiling water (to cover at least halfway) for 15
       minutes, turning halfway. Remove the tough veins from the outer leaves.
