@@ -17,14 +17,32 @@ recipes:
   - recipeTitle: Pork
     ingredients:
       - 1½kg pork belly, thick end, bones removed
-    method: "\n"
+      - 2 tbsp sea salt
+      - 2 tbsp olive oil
+      - Black pepper to season
   - recipeTitle: Sauce
     ingredients:
       - ½ cup brown sugar
-    method: "\n"
+      - ¼ cup red wine vinegar
+      - 2 tbsp honey
+      - 2 star anise
+      - 1 cinnamon stick
+      - 1 tbsp coriander seeds, lightly crushed
+      - 2 bay leaves
   - recipeTitle: Salad
     ingredients:
       - ½ cup rice wine vinegar
+      - ½ tsp salt
+      - ½ tsp Sichuan pepper
+      - 3 tbsp sugar
+      - 1 red onion
+      - 1 baby fennel
+      - 1¼ savoy cabbage
+      - 1 Lebanese cucumber
+      - 2 radish
+      - 2 red apples
+      - 1 green chilli
+      - 1 cup picked fresh coriander sprigs
     method: >-
       Ask your butcher to score the skin of the pork belly (if you do it
       yourself, use a very sharp Stanley knife). Rub sea salt into pork skin and
@@ -59,7 +77,11 @@ recipes:
   - recipeTitle: Time line
     recipeDescription: Let t be dinner time. Then you need to allow say 3½ hours from go to whoa.
     ingredients:
-      - "t - 3½ hours: Crank up oven to 220°C. Get the pork out of the fridge
-        and salt it. Then back into the fridge to dry out the skin."
-    method: "\n"
+      - 't - 3½ hours: Crank up oven to 220°C. Get the pork out of the fridge
+        and salt it. Then back into the fridge to dry out the skin.'
+      - "t - 2¾ hours: Removed salt, dried skin, and into hot oven. I've allowed ¼ work time."
+      - 't - 2¼ hours: Turn down oven to 190°C.'
+      - 't - ¾ hour: Turn over the pork.'
+      - 't - ¼ hour: Rest uncovered.'
+      - 't: Chop it up.'
 ---
