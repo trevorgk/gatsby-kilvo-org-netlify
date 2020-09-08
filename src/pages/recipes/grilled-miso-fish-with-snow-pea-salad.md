@@ -16,9 +16,19 @@ featuredImage: /img/grilled_miso_fish.jpg
 recipes:
   - ingredients:
       - 1 tablespoon soy sauce
+      - 1/3 cup (80ml) mirin (Japanese rice wine)
+      - 2 teaspoons caster sugar
+      - 1/3 cup (75g) red or white miso paste
+      - 600g skinless firm white fish fillets (such as ling or kingfish), cut into 3cm wide strips
+      - Dried or fresh udon noodles, cooked according to packet instructions, to serve
   - recipeTitle: Snow pea salad
     ingredients:
       - 200g snow peas, thinly sliced on an angle
+      - 1 Lebanese cucumber, halved, seeds removed, thinly sliced on the diagonal
+      - 2 tablespoons mirin
+      - 2 tablespoons rice vinegar
+      - 2 tablespoons sesame oil
+      - 2 teaspoons sesame seeds
     method: >-
       Place soy, mirin and sugar in a small pan and bring to the boil over
       medium-high heat. Add miso and whisk until smooth. Remove from heat,
