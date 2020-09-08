@@ -12,6 +12,15 @@ category: Main Courses
 recipes:
   - ingredients:
       - 1 bunch Spinach
+      - Salt and pepper
+      - 450g tin of Red Salmon
+      - 1 tbsp flour
+      - ½ cup breadcrumbs made from stale bread
+      - 1 tbsp olive oil (optional, see below)
+      - 3 eggs, hard boiled
+      - 45g butter
+      - 1 cup milk
+      - Third cup grated parmesan
     method: >-
       Wash the spinach well after removing stalks, and drain.
 

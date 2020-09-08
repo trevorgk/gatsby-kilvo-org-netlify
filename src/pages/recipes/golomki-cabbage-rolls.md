@@ -2,6 +2,7 @@
 templateKey: recipe
 title: Golomki (Cabbage Rolls)
 blurb: This recipe is from Barbara Sonand.
+legacySlug: golomki.html
 category: Main Courses
 recipes:
   - ingredients:
