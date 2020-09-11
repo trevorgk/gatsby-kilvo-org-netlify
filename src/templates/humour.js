@@ -1,9 +1,9 @@
-import React from 'react';
+import { graphql, Link } from 'gatsby';
 import PropTypes from 'prop-types';
-import { graphql } from 'gatsby';
-import Layout from '../components/Layout';
+import React from 'react';
 import Content, { HTMLContent } from '../components/Content';
 import HumourAside from '../components/HumourAside';
+import Layout from '../components/Layout';
 
 export const HumourPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
@@ -19,6 +19,7 @@ export const HumourPageTemplate = ({ title, content, contentComponent }) => {
               </h2>
               <PageContent className="content" content={content} />
             </div>
+            <Link to="/humour">Back to humour &ellip;</Link>
           </div>
 
           <div className="column">

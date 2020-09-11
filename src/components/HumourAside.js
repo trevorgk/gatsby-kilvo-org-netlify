@@ -13,9 +13,6 @@ const HumourAside = ({ data }) => {
       <nav>
         <div className="content">
           <ul>
-            <li>
-              <Link to="/humour">Main page</Link>
-            </li>
             {pages
               .map(({ node: page }) => ({
                 id: page.id,
@@ -27,6 +24,21 @@ const HumourAside = ({ data }) => {
                   <Link to={slug}>{title}</Link>
                 </li>
               ))}
+
+            <li>
+              <Link
+                to="http://www.physlink.com/Fun/IsThereSanta.cfm"
+                target="_blank"
+              >
+                Is there a Santa Claus?
+              </Link>
+            </li>
+
+            <li>
+              <Link to="http://www.childfree.net/potpourri_prep.html">
+                Preparation for Parenthood
+              </Link>
+            </li>
           </ul>
         </div>
       </nav>
