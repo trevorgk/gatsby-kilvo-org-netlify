@@ -182,14 +182,6 @@ export default class HumourIndexPage extends React.Component {
                   <p>
                     <img src="/img/calvin_kids.jpg" />
                   </p>
-                  <ul>
-                    <li>
-                      <a
-                        href="http://kilvo.org/humour/dead_horses.html"
-                        title="Dead Horses — The tribal wisdom of the Dakota Indians"
-                      ></a>
-                    </li>
-                  </ul>
                 </div>
                 <div className="column">
                   <HumourAside />
