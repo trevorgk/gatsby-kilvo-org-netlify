@@ -1,7 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { Link, graphql, StaticQuery } from 'gatsby';
-import _ from 'lodash';
 
 const HumourAside = ({ data }) => {
   const { edges: pages } = data.allMarkdownRemark;
@@ -14,6 +13,9 @@ const HumourAside = ({ data }) => {
       <nav>
         <div className="content">
           <ul>
+            <li>
+              <Link to="/humour">Main page</Link>
+            </li>
             {pages
               .map(({ node: page }) => ({
                 id: page.id,
