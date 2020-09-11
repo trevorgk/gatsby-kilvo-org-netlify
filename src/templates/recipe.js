@@ -1,21 +1,12 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { kebabCase } from 'lodash';
 import { Helmet } from 'react-helmet';
-import { graphql, Link } from 'gatsby';
+import { graphql } from 'gatsby';
 import Layout from '../components/Layout';
-import Content, { MarkdownContent } from '../components/Content';
+import { MarkdownContent } from '../components/Content';
 import RecipesAside from '../components/RecipesAside';
 
-export const RecipeTemplate = ({
-  content,
-  tags,
-  title,
-  blurb,
-  featuredimage,
-  recipes,
-  helmet,
-}) => {
+export const RecipeTemplate = ({ title, blurb, recipes, helmet }) => {
   console.log({ blurb });
   return (
     <section className="section">

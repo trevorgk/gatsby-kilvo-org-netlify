@@ -96,6 +96,19 @@ collections:
               widget: 'string',
               required: false,
             }
+  - name: 'humour'
+    label: 'Humour'
+    folder: 'src/pages/humour'
+    create: true
+    fields:
+      - {
+          label: 'Template Key',
+          name: 'templateKey',
+          widget: 'hidden',
+          default: 'humour',
+        }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
 
   - name: 'pages'
     label: 'Pages'
