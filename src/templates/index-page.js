@@ -81,10 +81,6 @@ export const IndexPageTemplate = ({
                     <Link className="btn" to="/recipes">
                       See recipes
                     </Link>
-                    <script
-                      language="javascript"
-                      src="http://www.quotationspage.com/data/qotd.js"
-                    ></script>
                   </div>
                 </div>
               </div>
