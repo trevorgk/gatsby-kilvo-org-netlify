@@ -1,7 +1,6 @@
 ---
 templateKey: humour
 title: For all you Gym freaks out there!
-path: /humour/gym-freaks
 ---
 
 At the Gym: One man's story.
