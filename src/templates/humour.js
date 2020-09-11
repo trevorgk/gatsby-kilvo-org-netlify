@@ -19,7 +19,7 @@ export const HumourPageTemplate = ({ title, content, contentComponent }) => {
               </h2>
               <PageContent className="content" content={content} />
             </div>
-            <Link to="/humour">Back to humour &ellip;</Link>
+            <Link to="/humour">Back to humour &hellip;</Link>
           </div>
 
           <div className="column">
