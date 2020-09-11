@@ -1,8 +1,10 @@
 ---
 templateKey: humour
 title: For all you Gym freaks out there!
+path: /humour/gym-freaks
 ---
- At the Gym: One man's story.
+
+At the Gym: One man's story.
 
 If you read this without laughing out loud, there is something wrong with you. This is dedicated to everyone who ever attempted to get into a regular workout routine.
 
@@ -28,7 +30,7 @@ THURSDAY: Vanessa was waiting for me with her vampire-like teeth exposed as her 
 
 FRIDAY: I hate that bitch Vanessa more than any human being has ever hated any other human being in the history of the world. Stupid, skinny, anaemic little cheerleader. If there were a part of my body I could move without unbearable pain, I would beat her with it.
 
-Vanessa wanted me to work on my triceps I don't have any triceps! And if you don't want dents in the floor, don't hand me the F*C**NG Barbells or anything that weighs more than a sandwich. The treadmill flung me off and I landed on a health and nutrition teacher. Why couldn't it have been someone softer, like the drama coach or the choir director ?
+Vanessa wanted me to work on my triceps I don't have any triceps! And if you don't want dents in the floor, don't hand me the F\*C\*\*NG Barbells or anything that weighs more than a sandwich. The treadmill flung me off and I landed on a health and nutrition teacher. Why couldn't it have been someone softer, like the drama coach or the choir director ?
 
 SATURDAY: Vanessa left a message on my answering machine in her grating, shrilly voice wondering why I did not show up today. Just hearing her made me want to smash the machine with my planner. However, I lacked the strength to even use the TV remote and ended up catching eleven straight hours of the Weather Channel.
 
