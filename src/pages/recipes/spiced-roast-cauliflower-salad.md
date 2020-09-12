@@ -13,6 +13,17 @@ category: Side Dishes
 recipes:
   - ingredients:
       - 1 head cauliflower
+      - 1 tbsp olive oil
+      - 1 tsp cumin seeds
+      - 1/tsp ground cumin
+      - ½ tsp chilli powder
+      - ½ tsp paprika
+      - ½ tsp crushed coriander seeds
+      - fresh coarsely ground black pepper
+      - salt
+      - 1 bunch fresh coriander, chopped
+      - ½ cup crushed macadamia nuts
+      - 200g fetta cheese, crumbled (I used persian fetta)
     method: >-
       Preheat oven to 180 deg celsius.
 
