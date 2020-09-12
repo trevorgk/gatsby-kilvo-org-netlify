@@ -17,8 +17,9 @@ blurb: >-
 
   You can make it ahead of time and freeze it.
 category: Cakes and Desserts
+featuredImage: /img/carrot_and_walnut_cake.jpg
 recipes:
-  - recipeTitle: ''
+  - recipeTitle: ""
     ingredients:
       - ½ cup (80g) sultanas
   - recipeTitle: Cream Cheese Frosting
