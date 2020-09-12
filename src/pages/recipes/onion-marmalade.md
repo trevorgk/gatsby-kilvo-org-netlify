@@ -5,6 +5,7 @@ blurb: This recipe originally came from "The Age" Epicure section probably in
   August 2008 (I lost the article, at least for the moment, so cannot properly
   acknowledge the source). Neil Ewart made it, and it was sensational. Here is
   what he gave me from memory.
+category: Sauces, Dressings & Preserves
 recipes:
   - ingredients:
       - 1kg brown onions, sliced
