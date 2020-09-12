@@ -5,7 +5,6 @@ import remarkHtml from 'remark-html';
 
 export const MarkdownContent = ({ content, className }) => {
   const html = remark().use(remarkHtml).processSync(content).toString();
-  console.log({ html });
   return (
     <div className={className} dangerouslySetInnerHTML={{ __html: html }} />
   );

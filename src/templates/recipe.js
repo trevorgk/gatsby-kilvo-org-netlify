@@ -6,38 +6,35 @@ import Layout from '../components/Layout';
 import { MarkdownContent } from '../components/Content';
 import RecipesAside from '../components/RecipesAside';
 
-export const RecipeTemplate = ({ title, blurb, recipes, helmet }) => {
-  console.log({ blurb });
-  return (
-    <section className="section">
-      {helmet || ''}
-      <div className="container content">
-        <div className="columns">
-          <div className="column is-three-quarters">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
-            </h1>
-            <p className="blurb">{MarkdownContent({ content: blurb })}</p>
-            {recipes.map(({ ingredients, method, recipeTitle }) => (
-              <>
-                <h2>{recipeTitle}</h2>
-                <ul>
-                  {ingredients.map((ingredient) => (
-                    <li key={ingredient}>{ingredient}</li>
-                  ))}
-                </ul>
-                <div>{MarkdownContent({ content: method })}</div>
-              </>
-            ))}
-          </div>
-          <div className="column">
-            <RecipesAside />
-          </div>
+export const RecipeTemplate = ({ title, blurb, recipes, helmet }) => (
+  <section className="section">
+    {helmet || ''}
+    <div className="container content">
+      <div className="columns">
+        <div className="column is-three-quarters">
+          <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
+            {title}
+          </h1>
+          <p className="blurb">{MarkdownContent({ content: blurb })}</p>
+          {recipes.map(({ ingredients, method, recipeTitle }) => (
+            <>
+              <h2>{recipeTitle}</h2>
+              <ul>
+                {ingredients.map((ingredient) => (
+                  <li key={ingredient}>{ingredient}</li>
+                ))}
+              </ul>
+              <div>{MarkdownContent({ content: method })}</div>
+            </>
+          ))}
+        </div>
+        <div className="column">
+          <RecipesAside />
         </div>
       </div>
-    </section>
-  );
-};
+    </div>
+  </section>
+);
 
 RecipeTemplate.propTypes = {
   content: PropTypes.node.isRequired,

@@ -12,6 +12,10 @@ category: Main Courses
 recipes:
   - ingredients:
       - chicken stock
+      - small hot red chillies — 2 or 3, depending on your heat threshold today
+      - lemon grass — a couple of thick, young blades or several thinner supermarket stems
+      - noodles — a small handful
+      - greens — such as spinach, mustard greens or dark, tender cabbage
     method: >-
       Using a soup bowl as a measure, pour as much chicken stock as you want to
       eat into a deep saucepan. I suggest you allow two deep bowlfuls per
