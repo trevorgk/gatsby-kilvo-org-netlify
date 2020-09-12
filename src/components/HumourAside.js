@@ -26,10 +26,7 @@ const HumourAside = ({ data }) => {
               ))}
 
             <li>
-              <a
-                href="http://www.physlink.com/Fun/IsThereSanta.cfm"
-                target="_blank"
-              >
+              <a href="http://www.physlink.com/Fun/IsThereSanta.cfm">
                 Is there a Santa Claus?
               </a>
             </li>
