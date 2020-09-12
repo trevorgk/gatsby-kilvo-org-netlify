@@ -14,13 +14,13 @@ This is the second hand in today's article.
 
 ![](/img/screen-shot-2020-09-05-at-1.32.28-pm.png)
 
-It was suggested that South's jump to 5![](http://kilvo.org/bridge/images/c.gif) removed the bidding space required to explore for the EW Spade slam.
+It was suggested that South's jump to 5![](/img/c.gif) removed the bidding space required to explore for the EW Spade slam.
 
-Just to start with I think East is to blame for his poor effort at his first turn — 2![](http://kilvo.org/bridge/images/d.gif) doesn't get close to conveying the enormous strength of the hand for play in a Spade contract. Surely 4![](http://kilvo.org/bridge/images/d.gif) is a more descriptive and should get the hands to the right level.
+Just to start with I think East is to blame for his poor effort at his first turn — 2![](/img/d.gif) doesn't get close to conveying the enormous strength of the hand for play in a Spade contract. Surely 4![](/img/d.gif) is a more descriptive and should get the hands to the right level.
 
 But what about North's first bid? He/she/it suppresses a 5-card Heart suit to raise Clubs?
 
-Isn't the hand almost perfect for competition? Say North doubles, or in a fit of youthful verve makes a fit-showing jump with 3![H](http://kilvo.org/bridge/images/h.gif). Then the auction takes an entirely different turn. Both sides now have a huge double fit and have to dance a delicate waltz - EW can make 6![S](http://kilvo.org/bridge/images/s.gif) but NS are only two down in 7![H](http://kilvo.org/bridge/images/h.gif) (my opponents always get the trunps right). A small bidding misjudgmemt has the potential to swing an enormous number of imps here.
+Isn't the hand almost perfect for competition? Say North doubles, or in a fit of youthful verve makes a fit-showing jump with 3![H](/img/h.gif). Then the auction takes an entirely different turn. Both sides now have a huge double fit and have to dance a delicate waltz - EW can make 6![S](/img/s.gif) but NS are only two down in 7![H](/img/h.gif) (my opponents always get the trunps right). A small bidding misjudgmemt has the potential to swing an enormous number of imps here.
 
 The last word should go to Michael Ware (New Zealand) who asked what was wrong with Blackwood at East's first turn? Then bid 5, 6 or 7S depending on the response.
 
@@ -30,13 +30,13 @@ This is exhibit one.
 
 ![](/img/screen-shot-2020-09-05-at-1.32.45-pm.png)
 
-We see this (East) hand in text books every day, but how often does it crop up in practice? I mean, really, how weird is it to open your 5-card Spade suit (as recommended in most books) , hear a Diamond overcall from lefty, and get to bid a comfortable 4![H](http://kilvo.org/bridge/images/h.gif) opposite partner's negative double? I must be a clean living boy.
+We see this (East) hand in text books every day, but how often does it crop up in practice? I mean, really, how weird is it to open your 5-card Spade suit (as recommended in most books) , hear a Diamond overcall from lefty, and get to bid a comfortable 4![H](/img/h.gif) opposite partner's negative double? I must be a clean living boy.
 
 This is exhibit two.
 
 ![](/img/screen-shot-2020-09-05-at-1.37.15-pm.png)
 
-This is the companion hand. 2![S](http://kilvo.org/bridge/images/s.gif) showed 6-9 and a 3-card raise. 3![H](http://kilvo.org/bridge/images/h.gif) was a long suit trial, basically natural. 3![S](http://kilvo.org/bridge/images/s.gif) was partner being disciplined and not getting excited with his two Aces. 4![H](http://kilvo.org/bridge/images/h.gif) basically over-ruled partner and was a confirmation of "natural". Given the favourable Spade/Heart layout this rolled home as well.
+This is the companion hand. 2![S](/img/s.gif) showed 6-9 and a 3-card raise. 3![H](/img/h.gif) was a long suit trial, basically natural. 3![S](/img/s.gif) was partner being disciplined and not getting excited with his two Aces. 4![H](/img/h.gif) basically over-ruled partner and was a confirmation of "natural". Given the favourable Spade/Heart layout this rolled home as well.
 
 This is exhibit three.
 
@@ -44,9 +44,9 @@ This is exhibit three.
 
 Another curious hand. NS were robbed.\
 \
-Given Bill Jacob's article in the last newsletter, clearly S has to follow up her 2![D](http://kilvo.org/bridge/images/d.gif) with a double. Or start with a double? S has a truly unattractive hand.
+Given Bill Jacob's article in the last newsletter, clearly S has to follow up her 2![D](/img/d.gif) with a double. Or start with a double? S has a truly unattractive hand.
 
-Can North get involved over 4![H](http://kilvo.org/bridge/images/h.gif)? If South doubled, then 4![S](http://kilvo.org/bridge/images/s.gif) is automatic. If South overcalled 2![D](http://kilvo.org/bridge/images/d.gif), then given the ![D](http://kilvo.org/bridge/images/d.gif) fit North has to do something. But what? We can all see that 4![S](http://kilvo.org/bridge/images/s.gif) is a doddle, but if we bid it is it clear we are assuming partner has suppport otherwise please correct to 5![D](http://kilvo.org/bridge/images/d.gif)?
+Can North get involved over 4![H](/img/h.gif)? If South doubled, then 4![S](/img/s.gif) is automatic. If South overcalled 2![D](/img/d.gif), then given the ![D](/img/d.gif) fit North has to do something. But what? We can all see that 4![S](/img/s.gif) is a doddle, but if we bid it is it clear we are assuming partner has suppport otherwise please correct to 5![D](/img/d.gif)?
 
 Only my opponents always get these decisions right.
 
@@ -62,7 +62,7 @@ This is Deal 8 from Match 3 of the first round robin.
 
 ![](/img/screen-shot-2020-09-05-at-1.41.23-pm.png)
 
-The 2![](http://kilvo.org/bridge/images/h.gif) bid was fourth suit forcing, and Charlie's 3![](http://kilvo.org/bridge/images/s.gif) bid rounded out his shape. This showed a good hand as he could have given a fast raise on the 2nd round of bidding. I thought it showed a better hand than it actually was, (the ![](http://kilvo.org/bridge/images/h.gif)Q doesn't contribute) and bid the poor slam.
+The 2![](/img/h.gif) bid was fourth suit forcing, and Charlie's 3![](/img/s.gif) bid rounded out his shape. This showed a good hand as he could have given a fast raise on the 2nd round of bidding. I thought it showed a better hand than it actually was, (the ![](/img/h.gif)Q doesn't contribute) and bid the poor slam.
 
 Mike Hughes (correctly in my view) didn't double. I explained that Charlie had a good hand with a Heart shortage, either 3154 or 3064.
 
