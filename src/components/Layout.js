@@ -53,7 +53,7 @@ const TemplateWrapper = ({ children }) => {
       <Footer />
       <script
         dangerouslySetInnerHTML={{
-          __html: `(function() {
+          __html: `(function externaliseLinks() {
 
         var links = document.links;
 
@@ -62,7 +62,9 @@ const TemplateWrapper = ({ children }) => {
               links[i].target = '_blank';
           } 
         }
-        })();`,
+        })();`
+            .replace(/\n/g, '')
+            .replace(/\s+/g, ' '),
         }}
       ></script>
     </>
