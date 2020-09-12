@@ -16,17 +16,19 @@ export const RecipeTemplate = ({ title, blurb, recipes, helmet }) => (
             {title}
           </h1>
           <p className="blurb">{MarkdownContent({ content: blurb })}</p>
-          {recipes.map(({ ingredients, method, recipeTitle }) => (
-            <>
-              <h2>{recipeTitle}</h2>
-              <ul>
-                {ingredients.map((ingredient) => (
-                  <li key={ingredient}>{ingredient}</li>
-                ))}
-              </ul>
-              <div>{MarkdownContent({ content: method })}</div>
-            </>
-          ))}
+          {recipes &&
+            recipes.map(({ ingredients, method, recipeTitle }) => (
+              <>
+                <h2>{recipeTitle}</h2>
+                <ul>
+                  {ingredients &&
+                    ingredients.map((ingredient) => (
+                      <li key={ingredient}>{ingredient}</li>
+                    ))}
+                </ul>
+                <div>{MarkdownContent({ content: method })}</div>
+              </>
+            ))}
           <p>&nbsp;</p>
           <Link to="/recipes">Back to Food &amp; Recipes &hellip;</Link>
         </div>
