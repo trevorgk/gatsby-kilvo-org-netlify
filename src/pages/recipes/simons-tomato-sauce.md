@@ -10,6 +10,14 @@ category: Sauces, Dressings & Preserves
 recipes:
   - ingredients:
       - 5½ kgs (12 lbs) of ripe tomatoes, roughly chopped
+      - 4 tbsp salt
+      - 60 gms (2 oz) of garlic (on average a head of garlic weighs between one and two ounces)
+      - 900 gms (2 lbs) sugar
+      - 2 (British) pints (1,100 ml) white wine vinegar
+      - 30 gms (1 oz) whole cloves
+      - 30 gms (1 oz) whole black peppercorns
+      - 30 gms (1 oz) whole pimento (all spice)
+      - 30 gms (1 oz) whole ginger root
     method: >-
       Roughly chop the tomatoes and garlic, place in the pot and add the salt.
       Stir well and leave overnight (to “fester”).
