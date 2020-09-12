@@ -27,6 +27,7 @@ export const RecipeTemplate = ({ title, blurb, recipes, helmet }) => (
               <div>{MarkdownContent({ content: method })}</div>
             </>
           ))}
+          <p>&nbsp;</p>
           <Link to="/recipes">Back to Food &amp; Recipes &hellip;</Link>
         </div>
         <div className="column">
