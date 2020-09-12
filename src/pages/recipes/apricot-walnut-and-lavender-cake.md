@@ -1,12 +1,23 @@
 ---
 templateKey: recipe
 title: Apricot, Walnut and Lavender Cake?
-blurb: "*This is from Yotam Ottolenghi's terrific book **\"Plenty More\".** Our
-  family has three copies of it!*"
+blurb: '*This is from Yotam Ottolenghi''s terrific book **"Plenty More".** Our
+  family has three copies of it!*'
 category: Cakes and Desserts
 recipes:
   - ingredients:
       - 185 gm room temperature butter, diced
+      - 2 tbsp walnut oil
+      - 220 gm castor sugar
+      - 120gm almond meal
+      - 4 eggs, beaten
+      - 120 gm walnuts blitzed in a food processor to a coarse powder
+      - 90g plain flour
+      - ½ tsp vanilla essence
+      - grated zest of 1 lemon
+      - 1½ tspn lavender flowers, fresh or dry
+      - 600 gm halved and pitted apricots
+      - Pinch of salt
   - recipeTitle: Icing
     ingredients:
       - 50 gm castor sugar
