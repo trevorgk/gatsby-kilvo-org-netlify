@@ -4,14 +4,7 @@ import { Link, graphql } from 'gatsby';
 
 import Layout from '../components/Layout';
 
-export const IndexPageTemplate = ({
-  image,
-  title,
-  heading,
-  subheading,
-  description,
-  intro,
-}) => (
+export const IndexPageTemplate = ({ image, heading, description }) => (
   <div>
     <div
       className="full-width-image margin-top-0"
@@ -97,7 +90,6 @@ export const pageQuery = graphql`
   query IndexPageTemplate {
     markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
       frontmatter {
-        title
         image {
           childImageSharp {
             fluid(maxWidth: 2048, quality: 100) {
@@ -106,12 +98,7 @@ export const pageQuery = graphql`
           }
         }
         heading
-        subheading
         description
-        intro {
-          heading
-          description
-        }
       }
     }
   }
