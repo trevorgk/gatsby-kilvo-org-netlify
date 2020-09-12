@@ -15,9 +15,19 @@ recipes:
   - ingredients:
       - 1 kg of spinach (I use two bunches, because the coarser stalks get the
         flick)
+      - 2 teaspoons salt
+      - 1 large brown onion, finely chopped
+      - ¼ cup olive oil
+      - 5 eggs
+      - 250 gms Fetta cheese, crumbled
+      - 250 gms Cottage cheese
+      - 30 gms (¼ cup) Parmesan or Kefalotiri cheese, grated
+      - ¼ teaspoon freshly milled black pepper
+      - ⅛ teaspoon grated nutmeg
+      - Parsley, leaves picked and chopped (I use a lot as I like it and it is available in the garden. The original recipe only mentions parsley as an afterthought)
+      - Filo pastry sheets (out of the freezer, defrosting — it doesn't take long)
+      - Olive oil for the pastry
     method: >-
-      
-
       The spinach requires careful washing and trimming. The leaves are then chopped roughly, placed in a colander and spinkled with salt and allowed to stand for an hour, after which you squeeze out as much water as you can. I actually microwave the leaves before letting them stand in the colander, and then chop them.
 
 

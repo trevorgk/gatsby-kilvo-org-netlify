@@ -1,6 +1,6 @@
 ---
 templateKey: recipe
-title: Veal Casserole
+title: Frankie's Veal Casserole
 blurb: This is from my friend Bernadine ("Frankie") Kennedy who regularly cooked
   it at the Albert Park Deli. The origin is lost in the mists of time. This
   makes a lot so you may wish to scale it. Serve it with Garlic Mash.
@@ -8,6 +8,19 @@ category: Main Courses
 recipes:
   - ingredients:
       - 4 kg diced veal
+      - Seasoned flour
+      - Olive oil for cooking
+      - 4 diced onions
+      - 4 cloves of garlic, crushed
+      - 4 red capsicums (5mm slices)
+      - 300 ml marsala
+      - 500 ml (2 cups) white wine
+      - 4 cups veal or chicken stock
+      - 4 bay leaves
+      - 20 juniper berries
+      - 200 gms anchovies, chopped
+      - Some fresh oregano (NFI how much)
+      - Salt & Pepper
     method: >-
       Coat veal in the seasoned flour. Heat a generous splash of olive oil in a
       large casserole dish and saute the onions, garlic and capsicum until
