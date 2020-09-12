@@ -5,6 +5,7 @@ import Navbar from '../components/Navbar';
 import './all.sass';
 import useSiteMetadata from './SiteMetadata';
 import { withPrefix } from 'gatsby';
+import { externaliseLinksScript } from '../utils/scripts';
 
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata();
@@ -53,18 +54,7 @@ const TemplateWrapper = ({ children }) => {
       <Footer />
       <script
         dangerouslySetInnerHTML={{
-          __html: `(function externaliseLinks() {
-
-        var links = document.links;
-
-        for (var i = 0, linksLength = links.length; i < linksLength; i++) {
-          if (links[i].hostname != window.location.hostname) {
-              links[i].target = '_blank';
-          } 
-        }
-        })();`
-            .replace(/\n/g, '')
-            .replace(/\s+/g, ' '),
+          __html: externaliseLinksScript,
         }}
       ></script>
     </>
