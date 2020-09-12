@@ -22,7 +22,7 @@ And underneath, someone had added this spark of genius — "But does he like Tab
 
 # []()Multitudes - Collective Nouns.
 
-![](http://kilvo.org/fun_with_words/images/nerd_of_cows.jpg)
+![](/img/nerd_of_cows.jpg)
 
 I was going to include the modest collection I had garnered over the years, but while checking them, using the Dictionary and of course Google, I came across [A Beastly Garden of Wordy Delights](http://www.anapsid.org/beastly.html) by Melissa Kaplan. This document lists the animal, its plural, the collective noun, the sound they make, male and female names where appropriate and the name of the offspring.
 
