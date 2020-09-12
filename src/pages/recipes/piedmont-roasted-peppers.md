@@ -10,6 +10,12 @@ category: Main Courses
 recipes:
   - ingredients:
       - 4 large red peppers (green are not suitable)
+      - 4 or so medium tomatoes
+      - 8 anchovy fillets, drained
+      - 2 cloves garlic
+      - Extra virgin olive oil 8 dessertspoons
+      - Freshly milled black pepper
+      - To serve: 1 small bunch fresh basil leaves
     method: >-
       For this it is essential to use a good, solid, shallow roasting-tray 16 x
       12 ins (40 x 30 cm): if the sides are too deep, the roasted vegetables

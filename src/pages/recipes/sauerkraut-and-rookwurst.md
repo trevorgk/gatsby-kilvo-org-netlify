@@ -4,9 +4,13 @@ title: Sauerkraut and Rookwurst
 blurb: This is a Dutch recipe we got from Paula Schroor.
 category: Main Courses
 recipes:
-  - recipeTitle: ""
+  - recipeTitle: ''
     ingredients:
       - 1 kg potatoes, peeled and quartered
+      - 500 gms sauerkraut
+      - 6 peppercorns
+      - 6 Juniper berries
+      - 250 gms kaiserfleisch
     method: >-
       In a large saucepan add enough water to just cover the potatoes and add
       salt. Add the sauerkraut separated) and scatter the spices on top. Sit the
