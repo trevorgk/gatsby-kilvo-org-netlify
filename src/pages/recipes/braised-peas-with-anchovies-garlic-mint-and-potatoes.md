@@ -10,7 +10,18 @@ category: Side Dishes
 recipes:
   - ingredients:
       - 8 chat (baby) potatoes
-    method: Cook potatoes in lightly salted boiling water until tender, then drain.
+      - 120ml extra virgin olive oil
+      - 8 anchovy fillets
+      - 3 cloves garlic, sliced
+      - 4 eschalots, finely sliced
+      - 4 cups frozen or fresh peas
+      - 1/2 bunch flat leaf parsley, chopped
+      - sea salt and freshly cracked black pepper
+      - 5 sprigs mint, leaves torn
+      - 1/2 lemon juiced
+
+    method:
+      Cook potatoes in lightly salted boiling water until tender, then drain.
       When cool enough to handle, peel and cut into slices. Heat olive oil in a
       large pan over low heat. Cook anchovies for about 1 minute, then add
       garlic and eschalots and cook for 2-3 minutes until lightly browned. Add
