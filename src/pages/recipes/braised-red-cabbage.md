@@ -21,4 +21,13 @@ recipes:
       Add the apple, vinegar and sugar and cook for a further 3 minutes, then add the wine and leave to simmer for about 30 minutes, stirring occasionally. Add the stock, cover and simmer for a further hour.
     ingredients:
       - ½ small red cabbage, outer leaves removed
+      - 2 tablespoons extra virgin olive oil
+      - ½ red onion, sliced
+      - 3 garlic cloves, finely sliced
+      - 1 teaspoon sea salt
+      - 1 sour green apple, such as Granny Smith, peeled and grated
+      - 100 ml apple cider vinegar
+      - 60g soft brown sugar
+      - 500 ml white wine
+      - 500 ml chicken stock
 ---
