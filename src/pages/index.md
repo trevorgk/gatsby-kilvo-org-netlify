@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Welcome to Grant Kilvington's Web site
-image: /img/lenticular-jumbotron.jpg
+image: /img/GGK-xw.jpg
 heading: Welcome to Grant Kilvington's Web site
 subheading: Last updated 30 April 2016
 description: 'The site will contain bits and pieces that interest me, such as food and recipes, contract bridge, puzzles and humour.'
