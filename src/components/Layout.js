@@ -5,7 +5,7 @@ import Navbar from '../components/Navbar';
 import './all.sass';
 import useSiteMetadata from './SiteMetadata';
 import { withPrefix } from 'gatsby';
-import { externaliseLinksScript } from '../utils/scripts';
+import { externaliseLinksScript } from '../utils/getMinifiedScript';
 
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata();
