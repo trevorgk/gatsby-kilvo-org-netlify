@@ -14,9 +14,21 @@ category: Cakes and Desserts
 recipes:
   - ingredients:
       - 180 gms pecans
+      - 3 large ripe bananas, peeled and mashed (300 gms)
+      - 275 gms soft light brown sugar
+      - 3 eggs, lightly beaten
+      - 140 ml full-fat milk
+      - 70 ml sunflower oil
+      - 275 gms plain flour
+      - 1 teaspoon bicarbonate of soda
+      - 1½ teaspoons baking powder
+      - Salt
   - recipeTitle: To finish
     ingredients:
       - 80 gms unsalted butter, at room temperature
+      - 60 gms tahini paste
+      - 200 gms honeycomb in honey
+      - ¾ teaspoon coarse sea salt
     method: >-
       Preheat the oven to 170°C/150°C Fan/Gas Mark 3½ and line a 900g loaf tin
       (25 × 12 cm) with baking parchment.
