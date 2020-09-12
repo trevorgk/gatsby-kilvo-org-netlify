@@ -1,6 +1,6 @@
 ---
 templateKey: recipe
-title: A fast, warming bowl of soup for tonight, tomorrow, for now
+title: Nigel Slater's Heartwarming Soup
 blurb: >-
   All the recipes on this page will be from Nigel Slater's books and web pages.
   Charlie Snashall lent me Toast to read (Nigel's autobiography) and warned me
