@@ -5,6 +5,14 @@ category: Sauces, Dressings & Preserves
 recipes:
   - ingredients:
       - 3 or 4 large garlic cloves (preferably the local blue stuff)
+      - ½ level teaspoon of sugar (I know this seems odd!)
+      - ½ teaspoon of Salt
+      - Lots of freshly ground black pepper
+      - Heaped teaspoon of English mustard powder
+      - 3 tablespoons of good quality extra-virgin olive oil
+      - ½ tablespoon of Balsamic vinegar
+      - ½ tablespoon of raspberry vinegar
+      - Large chunk of Feta cheese (about a cup-full)
     method: >-
       Crush the garlic and rub around a (preferably wooden) salad bowl
       extracting as much juice as possible: discard most of the solid stuff
