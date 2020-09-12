@@ -13,6 +13,8 @@ export const IndexPageTemplate = ({ image, heading, description }) => (
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
         backgroundPosition: `top center`,
+        maxWidth: '1100px',
+        margin: '0 auto',
       }}
     >
       &nbsp;
