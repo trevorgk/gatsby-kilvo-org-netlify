@@ -8,6 +8,7 @@ blurb: >-
 
   Serves 4
 category: Main Courses
+featuredImage: /img/tuna_red_pepper_stew.jpg
 recipes:
   - ingredients:
       - 1 red capsicum
@@ -34,7 +35,4 @@ recipes:
 
 
       Cut the tuna into 2cm cubes. Slip the tuna into the stew and simmer for 5-10 minutes until tender. Serve in warmed pasta bowls with lots of parsley. Forgive the quality of the newspaper scan!
-
-
-      ![](http://kilvo.org/recipes/images/tuna_red_pepper_stew.jpg)
 ---
