@@ -18,13 +18,26 @@ blurb: >-
   You can make it ahead of time and freeze it.
 category: Cakes and Desserts
 recipes:
-  - recipeTitle: ""
+  - recipeTitle: ''
     ingredients:
       - ½ cup (80g) sultanas
   - recipeTitle: Cream Cheese Frosting
     ingredients:
       - 250g cream cheese, at room temperature
       - 1½ cups (240g) icing sugar, sifted
+      - juice of 1 orange
+      - ⅔ cup (160ml) milk
+      - 2 teaspoons lemon juice
+      - 2 cups (320g) wholemeal self-raising flour
+      - 1 teaspoon bicarbonate of soda
+      - 1 teaspoon mixed spice
+      - 1½ cup (330g) raw sugar
+      - ½ cup (50g) walnuts, chopped
+      - 3 medium carrots, grated
+      - 1 Granny Smith (green cooking) apple, peeled, grated
+      - grated rind of 1 lemon
+      - ½ cup (125ml) rice bran oil
+      - 3 eggs, lightly beaten
     method: >-
       Preheat oven to 180°C or 160°C fan. Grease and line a 25cm springform pan.
 
