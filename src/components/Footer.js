@@ -17,24 +17,14 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/about">
-                        About
+                      <Link className="navbar-item" to="/recipes/">
+                        Food &amp; Recipes
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/recipes">
-                        Recipes
+                      <Link className="navbar-item" to="/bridge/">
+                        Bridge
                       </Link>
-                    </li>
-                    <li>
-                      <a
-                        className="navbar-item"
-                        href="/admin/"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        Admin
-                      </a>
                     </li>
                   </ul>
                 </section>
@@ -43,13 +33,28 @@ const Footer = class extends React.Component {
                 <section>
                   <ul className="menu-list">
                     <li>
-                      <Link className="navbar-item" to="/contact">
-                        Contact
+                      <Link className="navbar-item" to="/humour/">
+                        Humour
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/contact/examples">
-                        Form Examples
+                      <Link className="navbar-item" to="/fun-with-words/">
+                        Fun With Words
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="navbar-item" to="/quotes/">
+                        Great quotes
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="navbar-item" to="/links/">
+                        Links
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="navbar-item" to="/contact/">
+                        Contact
                       </Link>
                     </li>
                   </ul>
