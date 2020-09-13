@@ -17,6 +17,10 @@ const TemplateWrapper = ({ children }) => {
             type: 'text/javascript',
             innerHTML: externaliseLinksScript,
           },
+          {
+            type: 'text/javascript',
+            innerHTML: `console.log('other script');`,
+          },
         ]}
       >
         <html lang="en" />
@@ -55,11 +59,6 @@ const TemplateWrapper = ({ children }) => {
           property="og:image"
           content={`${withPrefix('/')}img/og-image.jpg`}
         />
-        <script
-          dangerouslySetInnerHTML={{
-            __html: externaliseLinksScript,
-          }}
-        ></script>
       </Helmet>
       <Navbar />
       <div>{children}</div>
