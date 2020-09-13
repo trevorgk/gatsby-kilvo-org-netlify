@@ -11,7 +11,14 @@ const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata();
   return (
     <>
-      <Helmet>
+      <Helmet
+        script={[
+          {
+            type: 'text/javascript',
+            innerHTML: externaliseLinksScript,
+          },
+        ]}
+      >
         <html lang="en" />
         <title>{title}</title>
         <meta name="description" content={description} />
