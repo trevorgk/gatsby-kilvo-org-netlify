@@ -234,9 +234,9 @@ collections:
             }
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
-      - file: 'src/pages/humour/index.md'
-        label: 'Humour'
-        name: 'humour'
+      - file: 'src/pages/links/index.md'
+        label: 'Links'
+        name: 'links'
         fields:
           - {
               label: 'Template Key',
