@@ -6,8 +6,388 @@
   NODE_VERSION = "12"
   YARN_VERSION = "1.22.4"
   YARN_FLAGS = "--no-ignore-optional"
-[[redirects]]
-  from = "/recipes/food_recipes.html"
-  to = "/recipes"
+[[redirects]]	
+  from="/index.html"	
+  to="/"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/bridge/bridge.html"	
+  to="/bridge/"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/humour/humour.html"	
+  to = "/humour/"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/humour/gym_freaks.html"	
+  to = "/humour/for-all-you-gym-freaks-out-there/"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/humour/philosophy.html"	
+  to = "/humour/for-those-who-love-the-philosophy-of-hypocrisy-and-ambiguity/"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/humour/psych_dict.html"	
+  to = "/humour/a-psychologists-dictionary/"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/humour/corporations.html"	
+  to = "/humour/corporations/"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/humour/steven_wright.html"	
+  to = "/humour/from-the-demented-mind-of-comedian-steven-wright/"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/humour/dilbert.html"	
+  to = "/humour/dilbert-on-life-at-work/"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/humour/laura_schlessinger.html"	
+  to = "/humour/laura-schlessinger/"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/humour/two-cows.html"	
+  to = "/humour/the-two-cow-explanation-of-what-makes/"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/humour/qantas_squawks.html"	
+  to = "/humour/qantas-squawks/"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/humour/more_airline_humour.html"	
+  to = "/humour/guess-which-ones-are-on-their-last-day/"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/humour/aviation_truisms.html"	
+  to = "/humour/aviation-truisms/"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/humour/tips_on_aviation.html"	
+  to = "/humour/tips-on-aviation/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/humour/brewster_the_rooster.html"	
+  to = "/humour/brewster-the-rooster/"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/humour/consultants.html"	
+  to="/humour/consultants-commandments/"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/humour/no_pun_in_ten_did.html"	
+  to="/humour/no-pun-in-ten-did/"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/humour/negative_people.html"	
+  to="/humour/how-to-handle-negative-people/"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/humour/dead_horses.html"	
+  to="/humour/dead-horses/"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/fun_with_words/fun_with_words.html"	
+  to="/fun-with-words/"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/great_quotes/great_quotes.html"	
+  to="/quotes/"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/links.html"	
+  to="/links/"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/als_choccy_biccys.html"	
+  to="/recipes/alison-roses-chocolate-biscuits-brake-pads/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/annes_apple_cake.html"	
+  to="/recipes/annes-apple-cake/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/apple_shortcake.html"	
+  to="/recipes/apple-or-apricot-shortcake/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/Apricot_Walnut_and_Lavender_Cake.html"	
+  to="/recipes/apricot-walnut-and-lavender-cake/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/babka.html"	
+  to="/recipes/babka/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/banana_bread.html"	
+  to="/recipes/grilled-banana-bread-with-tahini-and-honeycomb/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/banana_cake.html"	
+  to="/recipes/banana-cake/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/bbq_pork_belly.html"	
+  to="/recipes/barbecued-pork-belly-with-berb%C3%A8re-spice-and-potato-salad/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/beetroot_puree.html"	
+  to="/recipes/beetroot-puree/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/Bolognaise-style_mushroom_ragu.html"	
+  to="/recipes/bolognaise-style-mushroom-ragu/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/boiled_orange_cake.html"	
+  to="/recipes/claudia-rodens-middle-eastern-orange-cake/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/braised_peas.html"	
+  to="/recipes/braised-peas-with-anchovies-garlic-mint-and-potatoes/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/calfs_liver.html"	
+  to="/recipes/calfs-liver-venetian-style/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/carrot_and_walnut_cake.html"	
+  to="/recipes/carrot-and-walnut-cake/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/creme_brulee.html"	
+  to="/recipes/creme-brulee/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/Cevapcici.html"	
+  to="/recipes/cevapcici-balkan-sausages/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/CrispPorkBelly.html"	
+  to="/recipes/crisp-pork-belly-with-apple-and-fennel-coleslaw/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/dales_chicken.html"	
+  to="/recipes/dales-chicken/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/devilled_kidneys.html"	
+  to="/recipes/devilled-kidneys/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/5_min_choc_mug_cake.html"	
+  to="/recipes/five-minute-chocolate-mug-cake/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/flathead_fillets.html"	
+  to="/recipes/flathead-fillets-with-tempura-batter/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/golomki.html"	
+  to="/recipes/golomki-cabbage-rolls/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/gratin_of_salmon.html"	
+  to="/recipes/a-gratin-of-salmon/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/grilled_miso_fish.html"	
+  to="/recipes/grilled-miso-fish-with-snow-pea-salad/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/hard_boiled_egg_curry.html"	
+  to="/recipes/madhur-jaffreys-hard-boiled-egg-curry/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/jansons_temptation.html"	
+  to="/recipes/jansons-temptation/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/nam_jim.html"	
+  to="/recipes/nam-jim-classic-thai-dressing/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/nannas_apple_cakes.html"	
+  to="/recipes/nannas-apple-cakes/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/nigel_slater.html"	
+  to="/recipes/nigel-slaters-heartwarming-soup/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/onion_marmalade.html"	
+  to="/recipes/onion-marmalade/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/pate_brisee.html"	
+  to="/recipes/pate-brisee-unsweetened-tart-or-quiche-pastry/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/piedmont_roasted_peppers.html"	
+  to="/recipes/piedmont-roasted-peppers/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/plum_cake.html"	
+  to="/recipes/plum-cake/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/raspberry_vinegar.html"	
+  to="/recipes/raspberry-vinegar/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/red_cabbage.html"	
+  to="/recipes/braised-red-cabbage/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/russian_salad.html"	
+  to="/recipes/russian-salad/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/sauerkraut_rookwurst.html"	
+  to="/recipes/sauerkraut-and-rookwurst/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/savoury_rice.html"	
+  to="/recipes/savoury-rice/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/soto_ayam.html"	
+  to="/recipes/soto-ayam-spicy-indonesian-chicken-soup/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/soy_ginger.html"	
+  to="/recipes/soy-and-ginger-dressing/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/spanakopita.html"	
+  to="/recipes/spanakopita-cheese-and-spinach-pie/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/spiced_roast_cauliflower_salad.html"	
+  to="/recipes/spiced-roast-cauliflower-salad/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/sticky_date_pudding.html"	
+  to="/recipes/sticky-date-pudding-with-caramel-sauce/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/tarte_tatin.html"	
+  to="/recipes/tarte-tatin-upside-down-caramelized-apple-tart//about"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/simons_tomato_sauce.html"	
+  to="/recipes/simons-tomato-sauce/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/tomato_capsicum_chutney.html"	
+  to="/recipes/tomato-and-capsicum-chutney/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/tuna_red_pepper_stew.html"	
+  to="/recipes/fresh-tuna-and-red-pepper-stew/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/vinaigrette.html"	
+  to="/recipes/kilvos-vinaigrette/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/Veal_Casserole.html"	
+  to="/recipes/frankies-veal-casserole/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/waterless_carrots.html"	
+  to="/recipes/waterless-cooked-carrots/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/white_sauce.html"	
+  to="/recipes/basic-white-sauce/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/Zucchini_Bake.html"	
+  to="/recipes/zucchini-bake/​"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/food_recipes.html"	
+  to="/recipes"	
+  status = 301
+  force = true
+[[redirects]]	
+  from="/recipes/sticky_date_pudding"	
+  to="/recipes/sticky-date-pudding-with-caramel-sauce/​"	
   status = 301
   force = true
