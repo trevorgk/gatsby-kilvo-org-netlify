@@ -26,17 +26,17 @@ const Footer = class extends React.Component {
                         Bridge
                       </Link>
                     </li>
+                    <li>
+                      <Link className="navbar-item" to="/humour/">
+                        Humour
+                      </Link>
+                    </li>
                   </ul>
                 </section>
               </div>
               <div className="column is-6">
                 <section>
                   <ul className="menu-list">
-                    <li>
-                      <Link className="navbar-item" to="/humour/">
-                        Humour
-                      </Link>
-                    </li>
                     <li>
                       <Link className="navbar-item" to="/fun-with-words/">
                         Fun With Words
