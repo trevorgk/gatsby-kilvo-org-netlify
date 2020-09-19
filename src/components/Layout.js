@@ -17,10 +17,6 @@ const TemplateWrapper = ({ children }) => {
             type: 'text/javascript',
             innerHTML: externaliseLinksScript,
           },
-          {
-            type: 'text/javascript',
-            innerHTML: `console.log('other script');`,
-          },
         ]}
       >
         <html lang="en" />
