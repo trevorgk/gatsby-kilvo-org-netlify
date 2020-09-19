@@ -16,34 +16,20 @@ title: Links of Interest
 [Fun with Words](http://www.rinkworks.com/words/)\
 [Take Our Word for it](http://www.takeourword.com/) The bi-weekly Word-origin Webzine\
 \
-**Australia**\
-[Everything Australian.Info](http://australia.ausconnections.com/information/sitemap.htm)\
-[Old Australian Food Recipes](http://www.oldaussierecipes.com/index.htm)\
-\
 **Food**\
-[Cuisine.com.au](http://www.cuisine.com.au/home/)\
+[goodfood.com.au](https://www.goodfood.com.au/)\
 [Cook's Thesaurus](http://www.foodsubs.com/)\
-[Daily Telegraph Wine and Food pages](http://www.telegraph.co.uk/wine/index.jhtml)\
+[Daily Telegraph Wine and Food pages](https://www.telegraph.co.uk/food-and-drink/wine/)\
 [The Elegant Sufficiency](http://elegantsufficiency.typepad.com)\
-[101 Cookbooks](http://www.101cookbooks.com/)\
+[101 Cookbooks](https://www.101cookbooks.com/)\
 [The Portobello Kitchen](http://portobellokitchen.blogspot.com/)\
-[Indian Simmer](http://www.indiansimmer.com/)\
-[Garlic Soup and Harissa (Ottolenghi)](http://www.theguardian.com/lifeandstyle/2008/apr/26/recipe.foodanddrink)\
-[Steam oven expert with a passion for food](http://cookwise.com.au/)\
+[Indian Simmer](https://www.indiansimmer.com/)\
+[Garlic Soup and Harissa (Ottolenghi)](https://www.theguardian.com/lifeandstyle/2008/apr/26/recipe.foodanddrink)\
+[Steam oven expert with a passion for food](https://cookwise.com.au/)\
 [Cook's Thesaurus](http://www.foodsubs.com/)\
-[Daily Telegraph Wine and Food pages](http://www.telegraph.co.uk/wine/index.jhtml)\
-[The Elegant Sufficiency](http://elegantsufficiency.typepad.com)\
-[The Cook and the Chef](http://www.abc.net.au/tv/cookandchef/recipes/default.htm)\
-[Chocolate and Zucchini](http://chocolateandzucchini.com/)\
-[he Sunday Times](http://www.timesonline.co.uk/tol/life_and_style/food_and_drink/)\
-[Jeff &amp; Michelle's Cookbook](http://goldberg.com.au/jmcookbook/ckbk_index.html)\
-[SBS - Food Safari](http://www.sbs.com.au/food/show/food-safari/)\
-[SBS - Food](http://www.sbs.com.au/food/)\
-[Slow Food Victoria](http://www.melbournefoodandwine.com.au/www/html/157-a-taste-of-slow.asp)\
-[Surfing the Menu](http://www.abc.net.au/surfingmenu/)\
+[Chocolate and Zucchini](https://cnz.to/)\
+[SBS - Food Safari](https://www.sbs.com.au/food/programs/food-safari)\
+[SBS - Food](https://www.sbs.com.au/food/)\
 [Thai Recipes of Kasma Loha-unchit](http://www.thaifoodandtravel.com/recipe.html)\
 [The Devil's Food Dictionary (Links)](http://www.devilsfooddictionary.com/dfdlinks.html" '=')\
 [AA Gill at The Sunday Times](http://www.timesonline.co.uk/tol/life_and_style/food_and_drink/eating_out/a_a_gill/)\
-\
-**Weird Stuff**\
-[Fetish Medical Terms Dictionary A-Z](http://www.mastersteelow.com/about_fetish_medical_terms_dictionary.htm)
