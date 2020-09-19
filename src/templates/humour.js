@@ -57,7 +57,7 @@ const HumourPage = ({ data }) => {
         helmet={
           <Helmet titleTemplate="%s | Grant Kilvington's Website">
             <title>{`${post.frontmatter.title}`}</title>
-            <meta name="description" content={`${recipe.frontmatter.title}`} />
+            <meta name="description" content={`${post.frontmatter.title}`} />
           </Helmet>
         }
       />
