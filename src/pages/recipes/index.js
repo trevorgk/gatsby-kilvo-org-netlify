@@ -1,4 +1,5 @@
 import React from 'react';
+import { Helmet } from 'react-helmet';
 
 import Layout from '../../components/Layout';
 import RecipesAside from '../../components/RecipesAside';
@@ -7,6 +8,13 @@ export default class RecipeIndexPage extends React.Component {
   render() {
     return (
       <Layout>
+        <Helmet titleTemplate="%s | Grant Kilvington's Website">
+          <title>Food and Recipes</title>
+          <meta
+            name="description"
+            content="I have a keen interest in food, as testified to by my girth. Many of these recipes come from Barbara Sonand, who was my mother-in-law and a really wonderful cook and person."
+          />
+        </Helmet>
         <div
           className="full-width-image-container margin-top-0"
           style={{

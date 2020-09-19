@@ -1,4 +1,5 @@
 import React from 'react';
+import { Helmet } from 'react-helmet';
 
 import Layout from '../../components/Layout';
 import HumourAside from '../../components/HumourAside';
@@ -7,6 +8,13 @@ export default class HumourIndexPage extends React.Component {
   render() {
     return (
       <Layout>
+        <Helmet titleTemplate="%s | Grant Kilvington's Website">
+          <title>Humour</title>
+          <meta
+            name="description"
+            content="Laughter is supposed to be the best medicine."
+          />
+        </Helmet>
         <div
           className="full-width-image-container margin-top-0"
           style={{
