@@ -36,6 +36,7 @@ ContentPageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
   content: PropTypes.string,
   contentComponent: PropTypes.func,
+  helmet: PropTypes.object,
 };
 
 const ContentPage = ({ data }) => {

@@ -1,15 +1,22 @@
 import { graphql, Link } from 'gatsby';
 import PropTypes from 'prop-types';
+import { Helmet } from 'react-helmet';
 import React from 'react';
 import Content, { HTMLContent } from '../components/Content';
 import HumourAside from '../components/HumourAside';
 import Layout from '../components/Layout';
 
-export const HumourPageTemplate = ({ title, content, contentComponent }) => {
+export const HumourPageTemplate = ({
+  title,
+  content,
+  contentComponent,
+  helmet,
+}) => {
   const PageContent = contentComponent || Content;
 
   return (
     <section className="section section--gradient">
+      {helmet || ''}
       <div className="container content">
         <div className="columns">
           <div className="column is-three-quarters">
@@ -35,6 +42,7 @@ HumourPageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
   content: PropTypes.string,
   contentComponent: PropTypes.func,
+  helmet: PropTypes.object,
 };
 
 const HumourPage = ({ data }) => {
@@ -46,6 +54,12 @@ const HumourPage = ({ data }) => {
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
         content={post.html}
+        helmet={
+          <Helmet titleTemplate="%s | Grant Kilvington's Website">
+            <title>{`${post.frontmatter.title}`}</title>
+            <meta name="description" content={`${recipe.frontmatter.title}`} />
+          </Helmet>
+        }
       />
     </Layout>
   );
