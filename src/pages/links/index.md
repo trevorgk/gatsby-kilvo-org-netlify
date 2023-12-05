@@ -33,3 +33,4 @@ title: Links of Interest
 [Thai Recipes of Kasma Loha-unchit](http://www.thaifoodandtravel.com/recipe.html)\
 [The Devil's Food Dictionary (Links)](http://www.devilsfooddictionary.com/dfdlinks.html" '=')\
 [AA Gill at The Sunday Times](http://www.timesonline.co.uk/tol/life_and_style/food_and_drink/eating_out/a_a_gill/)\
+[A Guide to Different Methods to Prepare Vegetables](https://grillio.com/blog/methods-to-prepare-vegetables/)\
