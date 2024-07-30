@@ -11,6 +11,7 @@ title: Links of Interest
 [Victorian Bridge Association](http://www.vba.asn.au/)\
 [Australian Bridge Federation](http://www.abf.com.au/)\
 [The Overtick (Cathy Chua's blog)](http://swatchless.wordpress.com/)\
+[Playing Bridge for Kids and Beginners (AAA State of Play)](https://www.aaastateofplay.com/playing-bridge-for-beginners/)\
 \
 **Words**\
 [Fun with Words](http://www.rinkworks.com/words/)\
